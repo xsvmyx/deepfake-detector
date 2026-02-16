@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+.env/
+
+# Data
+data/
+fake_large/
+*.pt        # fichiers PyTorch
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
