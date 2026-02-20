@@ -19,3 +19,6 @@ fake_large/
 # Logs
 *.log
 
+best_model.pt
+best_model_wl.pt
+best_deepfake_detector.pt
