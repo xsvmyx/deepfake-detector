@@ -13,6 +13,8 @@ __pycache__/
 # Data
 data/
 fake_large/
+images/
+models/
 *.pt        # fichiers PyTorch
 
 # Jupyter
